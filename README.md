@@ -8,4 +8,4 @@ FrontEndMentor's Design:
 
 Design Submitted:
 
-<img src="images/site-preview.png" width=30% height=30%>
+<img src="images/site-preview.png" width=75% height=75%>
