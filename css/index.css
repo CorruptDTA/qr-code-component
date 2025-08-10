@@ -44,6 +44,7 @@ body {
 
 .typo1 {
     font-family: 'Outfit', 'sans-serif';
+    color: #1F314F;
     font-weight: bold;
     font-size: 22px;
     line-height: 120%;
@@ -52,6 +53,7 @@ body {
 
 .typo2 {
     font-family: 'Outfit', 'sans-serif';
+    color: #1F314F;
     font-weight: 300;
     font-size: 15px;
     line-height: 140%;
